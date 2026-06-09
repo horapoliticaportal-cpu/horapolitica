@@ -283,7 +283,7 @@ if (loading) {
   )}
 </div>
 
-      <div className="absolute inset-0 bg-black/40 pointer-events-none" />
+      <div className="absolute inset-0 bg-black/6 pointer-events-none" />
 
               <div className="relative z-10 flex h-full flex-col justify-end pb-20 px-6">
                 <div className="max-w-5xl">
